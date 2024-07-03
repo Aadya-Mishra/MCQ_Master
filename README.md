@@ -5,11 +5,11 @@ At MCQ MASTER, we provide a comprehensive platform for mastering multiple choice
 
 ## Authors
 
-- Ahmed Faraz:
-    - Email: ahmedfaraz1117@gmail.com
-    - Class Roll No: 54
+- Aadya Mishra: 
+    - Email: aadyamishra38@gmail.com
+    - Class Roll No: 02
     - College Name:Dr.Virendrra Swaroop Institute Of Computer Studies
-      
+
  
 - Aditya Verma:
     - Email: vermaaditya1110@gmail.com
@@ -17,12 +17,11 @@ At MCQ MASTER, we provide a comprehensive platform for mastering multiple choice
     - College Name:Dr.Virendrra Swaroop Institute Of Computer Studies
       
     
-- Aadya Mishra: 
-    - Email: aadyamishra38@gmail.com
-    - Class Roll No: 02
+- Ahmed Faraz:
+    - Email: ahmedfaraz1117@gmail.com
+    - Class Roll No: 54
     - College Name:Dr.Virendrra Swaroop Institute Of Computer Studies
-    
-
+      
 
 
 ## Table of contents
